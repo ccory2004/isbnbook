@@ -16,11 +16,11 @@ while True:
     print("Title: "+response.json()['title'])
     title = response.json()['title']
     try:
-        print("ISBN: "+response.json()['isbn_10'][0])
-        isbn = response.json()['isbn_10'][0]
-    except:
         print("ISBN: "+response.json()['isbn_13'][0])
         isbn = response.json()['isbn_13'][0]
+    except:
+        print("ISBN: "+response.json()['isbn_10'][0])
+        isbn = response.json()['isbn_10'][0]
     authors = []
     for author in range(len(response.json()['authors'])):
         authorResp = requests.get("https://openlibrary.org"+response.json()['authors'][author]['key']+".json")

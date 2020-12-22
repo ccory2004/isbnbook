@@ -26,6 +26,4 @@ while True:
     with open("_data/booklist.yml", "a+") as f:
         f.write("- title: '"+title+"'\n")
         f.write("  isbn: '"+isbn+"'\n")
-        f.write("  authors:"+"\n")
-        for author in authors:
-            f.write("   -'"+author+"'\n")
+        f.write("  authors:"+', '.join(authors)+"\n")

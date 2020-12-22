@@ -8,7 +8,11 @@ while True:
     isbn = input("Scan ISBN code: ")
     if isbn == "end":
         break
-    response = requests.get("https://openlibrary.org/isbn/"+isbn+".json")
+    try:
+        response = requests.get("https://openlibrary.org/isbn/"+isbn+".json")
+    except:
+        print("Error with retrieving data")
+        break
     print("Title: "+response.json()['title'])
     title = response.json()['title']
     try:

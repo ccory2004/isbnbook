@@ -3,6 +3,7 @@ import csv
 import json
 import yaml
 
+print("Scan ISBN Barcodes to Add to the Site")
 while True:
     isbn = input("Scan ISBN code: ")
     if isbn == "end":
@@ -21,9 +22,9 @@ while True:
         authorResp = requests.get("https://openlibrary.org"+response.json()['authors'][author]['key']+".json")
         print("Author: "+authorResp.json()['name'])
         authors.append(authorResp.json()['name'])
-    print(authors)
     print("")
     with open("_data/booklist.yml", "a+") as f:
         f.write("- title: '"+title+"'\n")
         f.write("  isbn: '"+isbn+"'\n")
-        f.write("  authors:"+', '.join(authors)+"\n")
+        f.write("  authors: '"+', '.join(authors)+"'\n")
+        f.write("\n")

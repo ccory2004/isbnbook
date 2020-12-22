@@ -28,7 +28,7 @@ while True:
         authors.append(authorResp.json()['name'])
     print("")
     with open("_data/booklist.yml", "a+") as f:
-        f.write("- title: '"+title+"'\n")
-        f.write("  isbn: '"+isbn+"'\n")
-        f.write("  authors: '"+', '.join(authors)+"'\n")
+        f.write("- title: \""+title+"\"\n")
+        f.write("  isbn: \""+isbn+"\"\n")
+        f.write("  authors: \""+', '.join(authors)+"\"\n")
         f.write("\n")

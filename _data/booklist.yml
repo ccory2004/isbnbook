@@ -224,3 +224,34 @@
   isbn: "4780545820844"
   authors: "Lucille Colandro"
 
+- title: "Grand-Slam Book-Bowl Jam"
+  isbn: "9781338048148"
+  authors: "Megan McDonald"
+
+- title: "The Adventures of Tom Sawyer"
+  isbn: "9781559936767"
+  authors: "Mark Twain"
+
+- title: "The Panda"
+  isbn: "799070510594"
+  authors: "Brian and Jillian Cutting"
+
+- title: "Enchanted Pony Academy: All that Glitters"
+  isbn: "9781338135596"
+  authors: "Lisa Ann Scott"
+
+- title: "Race to the North Pole"
+  isbn: "9781338350524"
+  authors: "Erin Soderberg"
+
+- title: "Biscuit Plays Ball"
+  isbn: "9780545638845"
+  authors: "Alyssa Satin Capucilli"
+
+- title: "Biscuit Visits the Big City"
+  isbn: "9780439917636"
+  authors: "Alyssa Satin Capucilli"
+
+- title: "Grumpy Bunny's Hat"
+  isbn: "9780545537971"
+  authors: "M Cristina Butler"

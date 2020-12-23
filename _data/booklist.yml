@@ -1,11 +1,226 @@
-- title: "War and Peace (Barnes & Noble Classics Series) (Barnes & Noble Classics)"
-  isbn: "9781593080730"
-  authors: "Lev Nikolaevič Tolstoy"
+- title: "Snowy the surprise puppy"
+  isbn: "9780439791243"
+  authors: "Jenny Dale"
 
-- title: "Clifford's Animal Sounds"
-  isbn: "0590447343"
-  authors: "Norman Bridwell"
+- title: "Posy the puppy"
+  isbn: "9780545873338"
+  authors: "Jane Clarke"
 
-- title: "AP Calculus"
-  isbn: "9781438011738"
-  authors: "Dennis Donovan, David Bock, Shirley O. Hockett"
+- title: "Decodable Readers 24-32: Scott Foresman Reading Grade 1 (One Paperback)"
+  isbn: "9780673651792"
+  authors: "scott foresman"
+
+- title: "Secret Identity Crisis (The Amazing Adventures of Nate Banks #1)"
+  isbn: "9780545156691"
+  authors: "Jake Bell"
+
+- title: "Olivia Nibblesqueak's messy mischief"
+  isbn: "9780545940764"
+  authors: "Daisy Meadows"
+
+- title: "Quest for the keys"
+  isbn: "9780545852807"
+  authors: "Stacia Deutsch"
+
+- title: "The class trip from the black lagoon"
+  isbn: "0439429277"
+  authors: "Mike Thaler"
+
+- title: "Mae the panda fairy"
+  isbn: "9780545708449"
+  authors: "Daisy Meadows"
+
+- title: "Socks"
+  isbn: "9780439353625"
+  authors: "Beverly Cleary"
+
+- title: "BISCUIT GOES TO SCHOOL"
+  isbn: "9780439779409"
+  authors: "ALYSSA SATIN CAPUCILLI"
+
+- title: "Biscuit and the lost teddy bear"
+  isbn: "9780061177514"
+  authors: "Jean Little"
+
+- title: "Biscuit takes a walk"
+  isbn: "9780061177453"
+  authors: "Jean Little"
+
+- title: "Dust for Dinner (I Can Read Book 3)"
+  isbn: "9780064442251"
+  authors: "Ann Warren Turner"
+
+- title: "Danny and the Dinosaur and the New Puppy"
+  isbn: "9780062281524"
+  authors: "Syd Hoff, Syd Hoff"
+
+- title: "The Long Way Westward (I Can Read Book 3)"
+  isbn: "9780064441988"
+  authors: "Joan Sandin"
+
+- title: "The Long Way to a New Land (I Can Read Book 3)"
+  isbn: "9780064441001"
+  authors: "Joan Sandin"
+
+- title: "Frog and Toad Are Friends (I Can Read Book 2)"
+  isbn: "9780064440202"
+  authors: "Arnold Lobel"
+
+- title: "Bread and jam for Frances"
+  isbn: "9780060837983"
+  authors: "Russell Hoban"
+
+- title: "Danny and the Dinosaur - Too Tall"
+  isbn: "9780062281555"
+  authors: "Syd Hoff, Syd Hoff"
+
+- title: "Amelia Bedelia"
+  isbn: "9780064441551"
+  authors: "Peggy Parish"
+
+- title: "First Flight"
+  isbn: "9780064442152"
+  authors: "George Shea"
+
+- title: "Invisible Inc. #03"
+  isbn: "9780590602891"
+  authors: "Elizabeth Levy"
+
+- title: "Who Would Win? Killer Whale vs. Great White Shark"
+  isbn: "9780545160759"
+  authors: "Jerry Pallotta"
+
+- title: "Little bear."
+  isbn: "9780064440042"
+  authors: "Else Holmelund Minarik"
+
+- title: "Buffalo Bill and the Pony Express"
+  isbn: "9780064442206"
+  authors: "Eleanor Coerr"
+- title: "Biscuit's Day at the Farm"
+  isbn: "9780545081047"
+  authors: "Jean Little"
+
+- title: "Biscuit wants to play"
+  isbn: "9780439917643"
+  authors: "Jean Little"
+
+- title: "Biscuit's Big Friend"
+  isbn: "0439762391"
+  authors: "Jean Little"
+
+- title: "Doorbell Rang (Gr. K-3)"
+  isbn: "9780590411097"
+  authors: "Pat Hutchins"
+
+- title: "Quick as a cricket"
+  isbn: "9780590469005"
+  authors: "Audrey Wood"
+- title: "Sam's big book of words"
+  isbn: "0811830888"
+  authors: "Yves Got"
+
+- title: "Everything soccer"
+  isbn: "9781426317132"
+  authors: "Blake A. Hoena"
+
+- title: "The fast and the frozen"
+  isbn: "9780545642910"
+  authors: "veda boyalla"
+
+- title: "Dog Train"
+  isbn: "9780761139669"
+  authors: "Sandra Boynton"
+
+- title: "Lights, Camera, Action!"
+  isbn: "9781895688757"
+  authors: "Lisa O'Brien"
+
+- title: "Greece (True Books)"
+  isbn: "9780516273594"
+  authors: "David Petersen, Christine Petersen"
+
+- title: "The young producer's video book"
+  isbn: "1562945661"
+  authors: "Bentley, Nancy., Nancy Bentley"
+
+- title: "Santa's Time Off"
+  isbn: "9780590049399"
+  authors: "Bill Maynard"
+
+- title: "Who was Jackie Robinson?"
+  isbn: "9780448455570"
+  authors: "Gail Herman"
+
+- title: "Christmas in Camelot"
+  isbn: "037581373X"
+  authors: "Mary Pope Osborne"
+
+- title: "Electric Storm (Magic School Bus Chapter Books, No. 14)"
+  isbn: "9780439314343"
+  authors: "Anne Capeci"
+
+- title: "The young soccer player"
+  isbn: "1564585921"
+  authors: "Gary Lineker"
+
+- title: "I Spy Little Bunnies W/foil (I Spy)"
+  isbn: "9780439785358"
+  authors: "Jean Little"
+
+- title: "Let's go for a drive!"
+  isbn: "9781423164821"
+  authors: "Mo Willems"
+
+- title: "Day of the Dragon King"
+  isbn: "9780590706421"
+  authors: "Mary Pope Osborne"
+
+- title: "The knight at dawn"
+  isbn: "067982412X"
+  authors: "Mary Pope Osborne"
+
+- title: "The Chocolate Touch"
+  isbn: "9780688161330"
+  authors: "Patrick Skene Catling"
+
+- title: "Thomas gets tricked and other stories"
+  isbn: "0679801006"
+  authors: "Kenny McArthur, David Mitton, Terry Permane"
+
+- title: "One Tiny Turtle"
+  isbn: "9780763615499"
+  authors: "Nicola Davies"
+
+- title: "Milo and the mysterious island"
+  isbn: "0735813523"
+  authors: "Marcus Pfister"
+
+- title: "Tigers at Twilight"
+  isbn: "9780439137607"
+  authors: "Mary Pope Osborne"
+
+- title: "Tales of a Fourth Grade Nothing"
+  isbn: "9781557360151"
+  authors: "Judy Blume"
+
+- title: "Twister on Tuesday"
+  isbn: "9780439316484"
+  authors: "Mary Pope Osborne"
+
+- title: "Finding Providence The Story Of Roger Williams"
+  isbn: "9780064442169"
+  authors: "N/A"
+
+- title: "Jack and the Geniuses: At the Bottom of the world"
+  isbn: "9781338222609"
+  authors: "N/A"
+
+- title: "Kitty the Tiger Fairy"
+  isbn: "9780545708463"
+  authors: "N/A"
+
+- title: "There Was an Old Lady Who"
+  isbn: "4780545820844"
+  authors: "Lucille Colandro"
+

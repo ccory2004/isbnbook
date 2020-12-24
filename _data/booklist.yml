@@ -97,6 +97,7 @@
 - title: "Buffalo Bill and the Pony Express"
   isbn: "9780064442206"
   authors: "Eleanor Coerr"
+
 - title: "Biscuit's Day at the Farm"
   isbn: "9780545081047"
   authors: "Jean Little"
@@ -256,3 +257,39 @@
 - title: "Grumpy Bunny's Hat"
   isbn: "9780545537971"
   authors: "M Cristina Butler"
+
+- title: "Classic Starts"
+  isbn: "9781402736872"
+  authors: "Mark Twain, Kathleen Olmstead"
+
+- title: "Freak the Mighty"
+  isbn: "9780439286060"
+  authors: "Rodman Philbrick"
+
+- title: "The Midnight Fox (Faber Childrens Classics)"
+  isbn: "9780571231058"
+  authors: "Betsy Cromer Byars"
+
+- title: "Haunted Castle on Hallows Eve (Magic Tree House, #30)"
+  isbn: "9780545289887"
+  authors: "Mary Pope Osborne"
+
+- title: "Bunnicula"
+  isbn: "9780590313186"
+  authors: "Deborah Howe"
+
+- title: "The zombie zone"
+  isbn: "0375824839"
+  authors: "Ron Roy"
+
+- title: "January joker"
+  isbn: "9780375856617"
+  authors: "Ron Roy"
+
+- title: "How to do Homework Without Throwing Up"
+  isbn: "9787543316751"
+  authors: "Trevor Romain"
+
+- title: "110% Prank Star"
+  isbn: "9781782355021"
+  authors: "N/A"
